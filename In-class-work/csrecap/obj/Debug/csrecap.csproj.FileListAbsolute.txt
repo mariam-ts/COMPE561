@@ -1,0 +1,17 @@
+C:\Users\Ioseb\source\repos\csrecap\bin\Debug\csrecap.exe.config
+C:\Users\Ioseb\source\repos\csrecap\bin\Debug\csrecap.exe
+C:\Users\Ioseb\source\repos\csrecap\bin\Debug\csrecap.pdb
+C:\Users\Ioseb\source\repos\csrecap\obj\Debug\csrecap.csprojAssemblyReference.cache
+C:\Users\Ioseb\source\repos\csrecap\obj\Debug\csrecap.exe
+C:\Users\Ioseb\source\repos\csrecap\obj\Debug\csrecap.pdb
+C:\Users\Asus\Desktop\csrecap\obj\Debug\csrecap.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\csrecap\obj\Debug\csrecap.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\csrecap\obj\Debug\csrecap.exe
+C:\Users\Asus\Desktop\csrecap\obj\Debug\csrecap.pdb
+C:\Users\Asus\Desktop\COMPE561\csrecap\bin\Debug\csrecap.exe.config
+C:\Users\Asus\Desktop\COMPE561\csrecap\bin\Debug\csrecap.exe
+C:\Users\Asus\Desktop\COMPE561\csrecap\bin\Debug\csrecap.pdb
+C:\Users\Asus\Desktop\COMPE561\csrecap\obj\Debug\csrecap.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\COMPE561\csrecap\obj\Debug\csrecap.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\COMPE561\csrecap\obj\Debug\csrecap.exe
+C:\Users\Asus\Desktop\COMPE561\csrecap\obj\Debug\csrecap.pdb
